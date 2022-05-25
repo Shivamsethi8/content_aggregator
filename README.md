@@ -1,5 +1,4 @@
 
-# content_aggregator
 # CONTENT AGGREGATOR 
 This is Major Project for B.tech. Final Year.
 
